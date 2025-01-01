@@ -1,0 +1,13 @@
+{
+    "jwtSecret": "JWT_SECRET",
+    "db": {
+      "host": "localhost",
+      "user": "root",
+      "password": "Database",
+      "database": "SkinetDatabase"
+    },
+    "server": {
+      "port": "3000"
+    }
+  }
+  
